@@ -27,6 +27,6 @@ For projects focused on video/animation, an up to 60 seconds video/animation wit
 
 Please provide your project's slides through a pull request to this repository or add them to an issue ticket.
 
-Content should be submitted before **April 19 2026**. However, **THE EARLIER THE BETTER** (and easier)! Thanks!
+Content should be submitted before **April 12 2026**. However, **THE EARLIER THE BETTER** (and easier)! Thanks!
 
 If you know of any other libre-graphics projects that should be included, please mention in the [issue tracker](https://github.com/libregraphicsmeeting/state-of-lg-2026/issues/1)! (still finishing compiling the list, wip)
