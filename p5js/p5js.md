@@ -1,5 +1,10 @@
 # p5js
 
+p5.js is a JavaScript library for making art and learning to code. Since 2013, p5.js has helped learners to make algorithmic art on the web. p5.js is community-driven, [prioritizes access and inclusion](https://beta.p5js.org/contribute/access/), and makes coding beginner-friendly by requiring as little prior knowledge as possible to get hands-on, while supporting continued learning.
+
+## Slide 1 - Updates in p5.js 2.0
+
+Almost exactly one year ago, p5.js 2.0 was released. That release included p5.strands, a feature for authoring shaders in JavaScript. Recent releases include improvements to this feature, which we will show at LGM in a talk and a workshop.
 
 ## Presence at LGM
 
