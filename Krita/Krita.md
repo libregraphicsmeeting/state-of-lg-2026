@@ -42,3 +42,5 @@ The images on these slides for Krita are based off to Tyson Tan's work licensed 
 ## Presence at LGM
 Tiar
 Carsten (askmeaboutloom)
+
+Thanks Tiar!

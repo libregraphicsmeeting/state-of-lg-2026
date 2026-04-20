@@ -1,24 +1,3 @@
-<!-- 
-└── project name folder/
-    ├── project.md
-    │   ├── # Name
-    │   ├── Description of Project
-    │   ├── ### Further Links
-    │   ├── ## Slide 0 - title slide
-    │   │   └── Slide 0 speaker notes
-    │   ├── ## Slide 1 - Changelog
-    │   │   └── Slide 1 speaker notes
-    │   ├── ## Slide 2 - Roadmap/Future
-    │   │   └── Slide 2 speaker notes
-    │   └── ## Presence at LGM
-    ├── Slide 0.png
-    ├── Slide 1.jpg
-    ├── Slide 2.png
-    └── logo.svg 
-ignore copying above, just a reminder on how we'd like you to structure the submission.
--->
-
-
 # Stellarium
 
 Stellarium is a free open source planetarium for your computer. 
@@ -88,3 +67,5 @@ V25.1, 25.2, 25.3, 25.4: **1.1 Million direct downloads** (not counting installa
 
 ## Presence at LGM
 Developers are distributed worldwide. Sorry, no personal attendance.
+
+Thanks Georg Zotti!

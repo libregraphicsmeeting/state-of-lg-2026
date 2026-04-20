@@ -1,9 +1,7 @@
-# Sample Project
-
-Sample project is a demonstration to give an example of how projects can be submitted for the State of Libre Graphics 2026.
+# Penpot
 
 ### Further Links:
-https://libregraphicsmeeting.org
+https://penpot.app
 
 ## Slide 0 - title slide
 For those that still don't Penpot: it's the first collaborative open-source design platform built on web standards like SVG, CSS, HTML, and JSON. What you design is already expressed as code, reducing friction, speeding up implementation, and eliminating handoff issues. 

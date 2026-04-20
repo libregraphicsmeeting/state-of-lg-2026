@@ -25,3 +25,5 @@ Brush Engine is already available to test, it's based on the very same Node Grap
 is one of, if not the most advanced Brush Engine out there.
 
 PixiEditor's main developer - Chris, aka. 'flabbet' will be talking more about it on this years Libre Graphics Meeting, on Saturday at 15:55, during presentation called 'The Power of Node Driven 2D Workflows'
+
+Thanks Krzysztof Krysiński!

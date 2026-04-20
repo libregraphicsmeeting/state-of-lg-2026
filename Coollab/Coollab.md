@@ -45,3 +45,5 @@ Benoît Baraille - Community manager
 
 Talk: Wednesday 15:30 "Exploring modern UI frameworks"
 Workshop: Thursday 13:40 "Making real-time generative visuals with Coollab"
+
+Thanks Jules!

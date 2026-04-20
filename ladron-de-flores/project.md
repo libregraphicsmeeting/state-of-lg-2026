@@ -42,3 +42,5 @@ Speakers Notes:
 To date, the film has earned multiple international festival laurels. 
 
 Our roadmap for 2026 focuses on documenting this pipeline to provide professional training, helping artists transition from proprietary suites to the Libre Graphics ecosystem through high-end production methodologies.
+
+Thanks Jorge del Campo!

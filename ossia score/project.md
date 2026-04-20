@@ -60,3 +60,6 @@ Roadmap:
 ✿ Modern render pipelines: 
 → Raytracing (successful Vulkan prototype during GSoC 2025).
 → Mesh shader pipeline.
+
+
+Thanks Jean-Michaël Celerier!

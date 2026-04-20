@@ -1,3 +1,5 @@
+# Friction
+
 ```
 Slides provided in PNG and animated SVG, the SVGs should be viewed using the included HTML (open 'slides.html' and click mouse for next).
 
@@ -98,3 +100,5 @@ Experimental support for the Adobe Animate (XFL) format is planned for v1.1.
 Optional end slide with QR link to downloads.
 
 ![Slide 3](slide-3.png)
+
+Thanks Ole-André!

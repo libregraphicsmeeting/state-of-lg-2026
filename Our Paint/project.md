@@ -38,3 +38,4 @@ Feel free to test drive Our Paint, or even using it in some productions. (It's a
 
 Also if you have some unique takes on how a digital art program _should_ operate, please get into contact with Yiming :D
 
+Thanks Yiming!

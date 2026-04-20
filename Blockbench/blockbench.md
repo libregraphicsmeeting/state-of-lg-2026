@@ -1,25 +1,4 @@
-<!-- 
-└── project name folder/
-    ├── project.md
-    │   ├── # Name
-    │   ├── Description of Project
-    │   ├── ### Further Links
-    │   ├── ## Slide 0 - title slide
-    │   │   └── Slide 0 speaker notes
-    │   ├── ## Slide 1 - Changelog
-    │   │   └── Slide 1 speaker notes
-    │   ├── ## Slide 2 - Roadmap/Future
-    │   │   └── Slide 2 speaker notes
-    │   └── ## Presence at LGM
-    ├── Slide 0.png
-    ├── Slide 1.jpg
-    ├── Slide 2.png
-    └── logo.svg 
-ignore copying above, just a reminder on how we'd like you to structure the submission.
--->
-
-
-# Sample Project
+# Blockbench
 
 Blockbench is an open source 3D modeling program focused on making low-poly modeling easy and accessible for everyone.
 
@@ -63,3 +42,5 @@ There are a bunch of cool things planned for the next updates, including:
 * Improvements to layers in the image editor, including layer groups and effect layers
 * Tools to render images and videos in Blockbench: Cameras, rendering, post processing
 * Tools to make more complex animations
+
+Thanks JannisX11!

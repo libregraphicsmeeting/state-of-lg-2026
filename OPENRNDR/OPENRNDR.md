@@ -39,3 +39,5 @@ real-time graphics, generative art, live visuals, and interactive installations.
 ## Presence at LGM
 
 Abe Pazos Solatie - OPENRNDR contributor. Thursday talk at 17:20, Friday workshop at 13:20.
+
+Thanks ABe!

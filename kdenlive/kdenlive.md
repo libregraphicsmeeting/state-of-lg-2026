@@ -1,3 +1,5 @@
+# Kdenlive
+
 ## Slide 0
 
 ![](kdenlive-0.png)
@@ -66,3 +68,5 @@ The roadmap is constantly being reviewed and updated, and some of the upcoming h
 - Distribute in the Miscrosoft Store
 
 ---
+
+Thanks frdbr!

@@ -1,7 +1,7 @@
-
-See 3 slides (layout drafts at this point) in attachment : splashscreen, update since 2025, and what's coming next.
-
 # Inkscape project notes for Libre Graphic Meeting 2026
+
+<!-- See 3 slides (layout drafts at this point) in attachment : splashscreen, update since 2025, and what's coming next. -->
+
 
 Inkscape is an open source vector editor, working on the SVG standard (Scalable Vector Graphics). The project started in 2003 and is still in excellent health 22 years later, thanks to its very active community of users, contributors and developers.
 
@@ -42,3 +42,5 @@ Font:
 
 - Titles : Unbounded (SIL OFL 1.1) https://fonts.google.com/specimen/Unbounded
 - Texts : Roboto (SIL OFL 1.1) https://fonts.google.com/specimen/Roboto
+
+Thanks m1981!

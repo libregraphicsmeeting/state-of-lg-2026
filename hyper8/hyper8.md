@@ -113,3 +113,5 @@ Starting this summer the feature scope, accessibility and usability will be leve
 ![](13.png)
 
 Simon, who develops Hyper 8, is around at this year's LGM if you want to have a chat – just say hi!
+
+Thanks Simon!

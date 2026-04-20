@@ -36,3 +36,4 @@ Speakers Notes:
     * The code for handling of animated properties has been completely re-written opening the road for more features and improved performance
 * There's an experimental web player that can be used to play Glaxnimate files directly on web pages without converting to other formats
 
+Thanks Mattia Basaglia!
